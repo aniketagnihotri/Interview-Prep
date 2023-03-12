@@ -1,2 +1,2 @@
-# LeetCode-Solutions
-My solutions to LeetCode questions in various languages.
+# Interview-Prep
+My solutions to interview prep coding questions in various languages.
